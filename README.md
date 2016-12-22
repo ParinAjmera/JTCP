@@ -1,2 +1,1 @@
-# JTCP is a College of Engineering, CSULB project to allow participants to finish pre requisite courses.
-More to follow as we progress
+JTCP (Joint Training and Certification Program) is a learning management system for College of Engineering, CSULB and Department of Transportation, California to provide a platform to fulfill pre-requisites and enroll for courses at CSULB. It also has the ability for a user to manage account, track progress, certificates. For a detailed list of features and functionality refer to the Software Requirements Document
